@@ -1,2 +1,2 @@
-#1/bin/bash
+#!/bin/bash
 echo $9(('echo $PATH |grep -o ":/" | wc -l' +l))
